@@ -1,5 +1,5 @@
 ---
-title: Detection-Correction Structure via General Language Model for Grammatical Error
+title: \[ACL 2024 main\] Detection-Correction Structure via General Language Model for Grammatical Error
   Correction
 authors:
 - Wei Li

@@ -1,5 +1,5 @@
 ---
-title: Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment
+title: \[ACM MM 2021\] Transformer-based Feature Reconstruction Network for Robust Multimodal Sentiment
   Analysis
 authors:
 - Ziqi Yuan
