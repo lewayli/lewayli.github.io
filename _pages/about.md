@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student, Computer Science, 
 
 profile:
   align: right
@@ -33,3 +33,8 @@ In the admission year of 2022, I entered the Computational Linguistics Lab in th
 In the 2024, I applied for changing the target from Master's degree to the PhD degree. And my main research field changes to Code Generation under repository scenario. I have published FEA-Bench (ACL 2025) and for now I am conducting research on post-training of LLMs for repository-level code development. 
 
 Feel free to contact me if you are interested in the code generation of LLMs. Welcome any collabrations.
+
+
+I am interested in linguistics and languages. For now, except English and Chinese, my Japnanese (N2) and Korean (TOPIK-5) is above medium-level. I also have experience in learning Français, Deutsch, Portugues, Italian, Arab, Russian languages.
+
+In my daily life, sports and photography are also my hobbies. I mainly play tennis, and is around 3.0 level. If you live around Peking University, welcome to make an appointment for tennis, squash, badminton, and so on.
