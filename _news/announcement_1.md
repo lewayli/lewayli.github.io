@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We launched the official website of the FEA-Bench!
+title: We launched the official website of the FEA-Bench!  https://gmago-leway.github.io/fea-bench.github.io/
 date: 2025-07-25 16:11:00-0400
 inline: false
 related_posts: false
