@@ -47,22 +47,22 @@
   ],
   "education": [
     {
-      "institution": "Peking University",
+      "institution": "School of Computer Science, Peking University",
       "location": "Beijing, China",
       "url": "",
       "area": "NLP, LLM",
-      "studyType": "PhD",
+      "studyType": "PhD Student",
       "startDate": "2022-09-01",
       "endDate": "2027-07-01",
       "score": "",
       "courses": [""]
     },
    {
-      "institution": "Tsinghua University",
+      "institution": "Department of Automation, Tsinghua University",
       "location": "Beijing, China",
       "url": "",
-      "area": "NLP, LLM",
-      "studyType": "PhD",
+      "area": "Multimodal",
+      "studyType": "Bachelor Degree",
       "startDate": "2018-09-01",
       "endDate": "2022-07-01",
       "score": "10",
