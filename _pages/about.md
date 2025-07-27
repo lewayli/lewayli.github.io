@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student, Computer Science, 
+subtitle: PhD student, Computer Science, Peking University
 
 profile:
   align: right
