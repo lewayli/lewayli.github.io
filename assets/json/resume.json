@@ -24,22 +24,22 @@
   },
   "work": [
     {
-      "name": "School of Computer Science, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "School of Computer Science, Peking University",
+      "position": "PhD Student",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "2027-07-01",
+      "summary": "Conducting Research in NLP. Admitted into Peking University as a master student. In 2025, convert to a PhD student. Before 2024.9, the research filed is Grammatical Error Correction. After 2024.9, conduct research on code generation.",
       "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
+      "organization": "ACL",
+      "location": "Bankok Thailand",
+      "position": "Registration Volunteer",
+      "url": "",
+      "startDate": "2024-07-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
